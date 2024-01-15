@@ -7,6 +7,7 @@
 </div>
 <div>
   <h2>Minhas abilidades</h2>
-  <p>https://img.shields.io/badge/Java-orange
-</p>
+  <p><img alt="Static Badge" src="https://img.shields.io/badge/Java-orange"></p>
+
+
 </div>
