@@ -11,9 +11,12 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow">
   <img alt="Static Badge" src="https://img.shields.io/badge/Java-orange">
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML-blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MSQL-dark%20blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS-red">
   <img alt="Static Badge" src="https://img.shields.io/badge/PHP-blue">
-  <img alt="Static Badge" src="https://img.shields.io/badge/MSQL-dark%20blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-dark%20blue">
+
+ 
 
 </div>
 <div>
