@@ -7,7 +7,20 @@
 </div>
 <div>
   <h2>Minhas abilidades</h2>
-  <p><img alt="Static Badge" src="https://img.shields.io/badge/Java-orange"></p>
+  <p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Java-orange">
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML-blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-red">
+  <img alt="Static Badge" src="https://img.shields.io/badge/PHP-blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MSQL-dark%20blue">
 
-
+</div>
+<div>
+  <h2>Tenho projetos em:</h2>
+  <ul>
+    <li>Sistemas Desktop</li>
+    <li>Projetos Site web </li>
+    <li>Projetos Mobile</li>
+  </ul>
 </div>
