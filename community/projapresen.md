@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DAA520&size=35&center=true&vCenter=true&width=1000&lines=Apresentando+meu+perfil,+No+Repositorio+do+Github;julioprogramador81:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=35&center=true&vCenter=true&width=1000&lines=Apresentando+meu+perfil,+No+Repositorio+do+Github;julioprogramador81+!)](https://git.io/typing-svg)
 
 
 <div>
@@ -11,8 +11,7 @@
   <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow">
   <img alt="Static Badge" src="https://img.shields.io/badge/Java-orange">
-    <img alt="Static Badge" src="https://img.shields.io/badge/PHP-blue">
-  
+  <img alt="Static Badge" src="https://img.shields.io/badge/PHP-blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/MSQL-dark%20blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS-red">
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML-blue">
@@ -21,14 +20,18 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/NetBeans%20IDE-dark%20blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-purple">
+  <img alt="Static Badge" src="https://img.shields.io/badge/React-blue">
 
- 
+
+  <h3>Estou estudando</h3>
+ <img alt="Static Badge" src="https://img.shields.io/badge/Python-yellow">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Angular-red">
 
 </div>
 <div>
   <h2>Tenho projetos em:</h2>
   <ul>
-    <li>Sistemas Desktop</li>
+    <li>Sistema Desktop</li>
     <li>Projetos Site web </li>
     <li>Projetos Mobile</li>
   </ul>
@@ -44,4 +47,6 @@
 
 </h2>
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF8DC&size=35&center=true&vCenter=true&width=1000&lines=Obrigado+pela+Atenção!)](https://git.io/typing-svg)
 
