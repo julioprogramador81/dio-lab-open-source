@@ -3,7 +3,7 @@
 
 <div>
   <h2>Julio Henrique Cordeiro Lobo</h2>
-  <h3>Sou Desenvolvedor há pouco mais de 6 anos, Tenho Graduação em Analise e Desenvolvimento de sistema e Pos-graduação na area, só que não tive muita oportunidade acho que é por causa da idade, mais não me comove, tenho alguns projetos em desktop, web e mobile, só que por ser de terceiros tem que esta privado ou oculto.  </h3>
+  <h3>Sou Desenvolvedor há pouco mais de 6 anos, Tenho Graduação em Analise e Desenvolvimento de sistema e Pós-graduação na área, só que não tive muita oportunidade acho que é por causa da idade, mais não me entristece, tenho alguns projetos em desktop, web e mobile, só que por ser de terceiros tem que esta privado ou oculto.  </h3>
 
 </div>
 <div>
